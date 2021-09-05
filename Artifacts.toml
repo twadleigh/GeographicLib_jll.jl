@@ -1,0 +1,236 @@
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c5fb629a19e8737994e426efe5d273e9bbb50691"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "60de87563c4ede9d123a9162025ff1ccdc5f5c7643fbad3a932af663ddf34a34"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ada1a6cfcb17cc5dcd7e55e12319f3cb9d17d64c"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "9ba75824cea7f2adc9ca329e03621aa8fb8cb5b9b34d661db6c4e8c07d7efc72"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d87b319a647730e33f07d7df3d2146a6ee873c61"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "8aeebd08bc9ee701d84e99da666f8d5a56d6f7c465aeff0c1a1124466f9143a3"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-musl-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce2a3ea85af21767d87838d3f712931cd260fb97"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "1bee825947ffb8ac8a6335aa40c89bcdd3ed3593d2bc2a5d0bb410b30f4f3e9f"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.aarch64-linux-musl-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e1b70ec7e2e9265b8bb94a7d8abda3248722e248"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "bf5c9b62d029e6126c3eda92d3e3d621fd13085ee874f3bec5a9b2ad404cb4cc"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08132d1a3d6a7b12d12d792d971109634493b28c"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "183fbd4b9e9c3d76b15d9551b868b4f72fcb655a15bb1a653d1f2941fbc6f70f"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2ed0af736a8ceb2e78963c6831e19bac116b52c"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "e453f8b010e1eb0cb5c6c627e7423597f396a1a61378a649cd732762569ec2ee"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "49dbf6a9c683093e78d3e0a2ac79ee73feae88b2"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "0fdb07251b248d3321d4625a34c08fe41eccb0cc4e05bbc1fb746aa701b4a55a"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "11d7f237dbf11188e59f0802bc52779595de160a"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "52bca1d406d1eeb0e3c43975965c23b2bce848d3069c9b59bcb137a40fb72e73"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e3ee5abf70a3fca58eabea308608e33333894860"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "a75e730a09bd4622f77ab267d8900f7fc0d3a66ed27d802d5efc67bb3631eda9"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "847570cb802b3ea7ebbf289805e99344c8366787"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "5c1c554421486f927b72bef8a34a3c3ada552b4a5fe5c0b7893e9e5774f84cf7"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-musl-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1d659012343106d085ada65cd7ab1aa4a797572"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "5793d7c8a16d32e64003ee60dd647f286167aaa240388991d6eed34804002ad1"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-linux-musl-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7a9986f56987f0de0a89a5ee25c8de6eb6cf1f01"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "f680317464dcfc7b0a1c6ff0ebd3c4a2f2ae1d511d8931867d6fa1e048f2fa71"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-w64-mingw32-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25b5f1906e9d47c4722c57f58cc78e64d9580afd"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "021902c96840ae54b1aced95e873b7d00cdebccb49c347205ff5f3ffd74cf7b9"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.i686-w64-mingw32-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "640ce4dfaafc3f64a531cf7709a992fcbf5ce373"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "819a72d0bfffc20d5a09abe3d757db8a3a7ac9677d09b09c7549fccea2b07407"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57733a3431a9ee2c87031751040b3ed861791ef2"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "dd006d92ef1bdef86c8975d1e2315b19a001012eb817cb513ab6e6e2c9cccf5d"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+git-tree-sha1 = "cd1d61d5ff4d38ae495b0f968298af18783b4f3c"
+os = "macos"
+
+    [[GeographicLib.download]]
+    sha256 = "5edef0c6f95b4929716bfcd463455b89f66e260182f8e952f27fb9a52097c46a"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-apple-darwin.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "78a7599a47b5dc8c46e6e60ccec8d2953c75e126"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "b63052c82eebf3257f06e794ee286f5ab601c395b96ed9612cd2f830a5da5dae"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3be8bebebc22f8931d5059a3e9eebd4d8a2b439"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "18ada6e09b0b0cb9a7c9e9f7aaf3201733a62af1e42034545d68c9a350b8fece"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "923580b4b7477ef19b5d6a5e776283de24603443"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "f5161ebbf5f9fd28958be38ae149f8f5029156bb5b1f5858d121bbafc4a20cd3"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-musl-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d291816bc794449b693044a8752a9692fe9d0f1"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLib.download]]
+    sha256 = "eaaaa77ad3f7d46b7203375e2b6535f9acd7bf496a72b13b66ccb2d77efd7bc1"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-linux-musl-cxx11.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+git-tree-sha1 = "6860b433d3cc90b1bdad61cdd26cb7d9f7c119db"
+os = "freebsd"
+
+    [[GeographicLib.download]]
+    sha256 = "6face58f8e8cae40666570f2404dc6052921f247a878671f3a61485b98b0f132"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-unknown-freebsd.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a47d829f75b6a6832317fd37eb7eef1c3e80c6c1"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "f621c87ac16e70555e886914091a7421cd9bed5325f17ff74130d206115e8f87"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GeographicLib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d231ac3cd869c74d36a9851c903444f8923873b"
+os = "windows"
+
+    [[GeographicLib.download]]
+    sha256 = "c44574ff70d55944c3a476f484e43de39d89cac83f2c70eb27e7cb6808575755"
+    url = "https://github.com/twadleigh/GeographicLib_jll.jl/releases/download/GeographicLib-v1.52.0+0/GeographicLib.v1.52.0.x86_64-w64-mingw32-cxx11.tar.gz"
